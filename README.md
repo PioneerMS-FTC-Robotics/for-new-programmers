@@ -1,4 +1,4 @@
-# ftc_programming_samples
+# ftc programming samples
 These are some basic (and advanced) programming samples for you to practice with.
 
 You can download to android studio or copy and paste the file contents into a new code with sololearn (https://www.sololearn.com/) and from there you can edit the code and try to make it look like the example. 
