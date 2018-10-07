@@ -8,3 +8,5 @@ Included within this repository will be a teleoperated (TeleOp) and autonomous (
 Teleop is when there is a person driving the robot using a game-pad (Xbox-360 or Logitech). Auton is when the robot moves based off of pre-programmed directions and sensor inputs. 
 
 VuForia is a kind of software where it allows a program with camera acsess to scan images with VuMarks on them and can tell the program what to do based off of what you say to do when the image is detected. 
+
+Also, if you want to compile and run code on your Chrombook (without Android Studio) you can use Online Java IDE (https://www.compilejava.net) to run your programs. 
