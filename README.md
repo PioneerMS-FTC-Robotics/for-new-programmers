@@ -10,3 +10,8 @@ Teleop is when there is a person driving the robot using a game-pad (Xbox-360 or
 VuForia is a kind of software where it allows a program with camera acsess to scan images with VuMarks on them and can tell the program what to do based off of what you say to do when the image is detected. 
 
 Also, if you want to compile and run code on your Chrombook (without Android Studio) you can use Online Java IDE (https://www.compilejava.net) to run your programs. 
+
+
+<h1> first things first</h1>
+
+1) watch the fallowing video... (https://www.youtube.com/watch?v=OT_PGYIFBGE&t=9s) 
