@@ -14,4 +14,8 @@ Also, if you want to compile and run code on your Chrombook (without Android Stu
 
 <h1> first things first</h1>
 
-1) watch the fallowing video... (https://www.youtube.com/watch?v=OT_PGYIFBGE&t=9s) 
+1) watch the fallowing video... (https://www.youtube.com/watch?v=OT_PGYIFBGE&t=9s)
+
+2) recreate the java file shown in the video. Type it in sololearn
+
+3) upload the code to this repository. 
